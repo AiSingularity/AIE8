@@ -38,6 +38,9 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
+        Test etst test test
+        Test etst test testTest etst test test
+        Test etst test test
         <img src="images/Activity_1-1.jpg" width="50%"/>
     
 2. Read the following paragraph and provide a concise summary of the key points…
