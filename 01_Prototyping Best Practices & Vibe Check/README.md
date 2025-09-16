@@ -38,8 +38,8 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
-        - The model showed good grasp of the asked concept and providing good examples of how to interpret OOP.
-        - The output is not well formatted for easy reading. It could have inserted newlines to separate the different points or new pararaphs. 
+        - Correctness and coherence: The model showed good grasp of the asked concept and providing good examples of how to interpret OOP.
+        - Output format and readability: The output is not well formatted for easy reading. It could have inserted newlines to separate the different points or new pararaphs. 
         <img src="images/Activity_1-1.jpg" width="50%"/>
     
 2. Read the following paragraph and provide a concise summary of the key points…
@@ -58,7 +58,7 @@ Please evaluate your system on the following questions:
         <img src="images/Activity_1-4.jpg" width="50%"/>
 5. Rewrite the following paragraph in a professional, formal tone…
     - Aspect Tested:
-        - I provided the odel with a paragraph oabout a teenager complaining about his job. The model showed good grasp of what language-venue fit is. The transformed paragraph covered all the core ingredients of the original paragraph but transformed the language to more business appropriate language. 
+        - I provided the model with a paragraph about a teenager complaining about his job. The model showed good grasp of what language-venue fit is. The transformed paragraph covered all the core ingredients of the original paragraph but transformed the language to more business appropriate language. 
         <img src="images/Activity_1-5.jpg" width="50%"/>
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
@@ -74,6 +74,8 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 What are some limitations of vibe checking as an evaluation tool?
 ##### ✅ Answer:
 
+    - Vibe checking is very useful to detect catastrophic problems. However, once the performance is acceptable, then comparing the outputs of different models become difficult as it does not provide quantitaive measures.
+    - Vibe checking also can be misleading if the tested use cases were basic and does not cover the weak spots of the model. 
 
 ### 🚧 Advanced Build (OPTIONAL):
 
