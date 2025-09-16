@@ -38,6 +38,8 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
+        ![Activity 1-1](images/Activity_1-1.jpg)
+    
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
