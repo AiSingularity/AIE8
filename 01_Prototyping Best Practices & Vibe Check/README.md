@@ -44,8 +44,8 @@ Please evaluate your system on the following questions:
     
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
-        
-
+        - Coverage of key facts and date: 
+        The input paragraph is te first paragraph in https://en.wikipedia.org/wiki/Turing_test. The summary covers the key dates and basic facts from the original paragraph.
         <img src="images/Activity_1-2.jpg" width="50%"/>
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
