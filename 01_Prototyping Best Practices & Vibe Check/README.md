@@ -45,12 +45,16 @@ Please evaluate your system on the following questions:
     
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
+        <img src="images/Activity_1-2.jpg" width="50%"/>
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
+        <img src="images/Activity_1-3.jpg" width="50%"/>
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     - Aspect Tested:
+        <img src="images/Activity_1-4.jpg" width="50%"/>
 5. Rewrite the following paragraph in a professional, formal tone…
     - Aspect Tested:
+        <img src="images/Activity_1-5.jpg" width="50%"/>
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
