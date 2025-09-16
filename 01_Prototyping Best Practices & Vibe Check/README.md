@@ -49,12 +49,16 @@ Please evaluate your system on the following questions:
         <img src="images/Activity_1-2.jpg" width="50%"/>
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
+        - Sticking to Storyline: The model managed to stick to the core of the storyline; unexpected place and friendship.
+        - Length of the output: 147 words - Fits the requirements.
         <img src="images/Activity_1-3.jpg" width="50%"/>
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     - Aspect Tested:
+        - The model showed Logical Abilities / Math Abilities / Step-by-step explanations. 
         <img src="images/Activity_1-4.jpg" width="50%"/>
 5. Rewrite the following paragraph in a professional, formal tone…
     - Aspect Tested:
+        - I provided the odel with a paragraph oabout a teenager complaining about his job. The model showed good grasp of what language-venue fit is. The transformed paragraph covered all the core ingredients of the original paragraph but transformed the language to more business appropriate language. 
         <img src="images/Activity_1-5.jpg" width="50%"/>
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
@@ -69,6 +73,7 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 
 What are some limitations of vibe checking as an evaluation tool?
 ##### ✅ Answer:
+
 
 ### 🚧 Advanced Build (OPTIONAL):
 
