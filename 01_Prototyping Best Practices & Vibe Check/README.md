@@ -38,13 +38,14 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
-        Test etst test test
-        Test etst test testTest etst test test
-        Test etst test test
+        - The model showed good grasp of the asked concept and providing good examples of how to interpret OOP.
+        - The output is not well formatted for easy reading. It could have inserted newlines to separate the different points or new pararaphs. 
         <img src="images/Activity_1-1.jpg" width="50%"/>
     
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
+        
+
         <img src="images/Activity_1-2.jpg" width="50%"/>
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
